@@ -1,2 +1,2 @@
 # SL_NAIST
-This is my repo
+This is a repo for special lecture.
